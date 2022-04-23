@@ -4,3 +4,4 @@ Basic recipe website created for [The Odin Project](https://www.theodinproject.c
 The skills that I am demonstrating with this project are:
 1. HTML
 2. Git
+3. CSS
