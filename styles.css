@@ -1,0 +1,17 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    font-family: "Courier New", monospace;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-size: 1.25em;
+}
